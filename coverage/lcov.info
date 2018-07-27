@@ -1,5 +1,5 @@
 TN:
-SF:/home/skullalive/Labs/Web/VueSampleTest/src/components/Hello.component.html
+SF:/mnt/c/Stuffs/Labs/VuejsJest/src/components/Hello.component.html
 FNF:0
 FNH:0
 DA:1,1
@@ -9,7 +9,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/home/skullalive/Labs/Web/VueSampleTest/src/components/Hello.component.ts
+SF:/mnt/c/Stuffs/Labs/VuejsJest/src/components/Hello.component.ts
 FN:6,(anonymous_6)
 FN:3,HelloComponent
 FN:12,(anonymous_8)
